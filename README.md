@@ -67,7 +67,7 @@ in networking and cybersecurity.
 ---
 
 ## 🚀 Future Goals
-- Continue completing TryHackMe learning paths
-- Build hands-on security projects
-- Progress toward junior cybersecurity roles
-
+- Gain a deeper understanding of network routing protocols, with a primary focus on **OSPF**
+- Strengthen hands-on networking and troubleshooting skills
+- Apply networking knowledge to cybersecurity scenarios
+- Progress toward advanced security labs and competitions
