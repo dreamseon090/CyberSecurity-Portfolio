@@ -41,6 +41,8 @@ Prepared for **Jr Penetration Tester** and further Red Team training.
 <details>
 <summary>📘 네트워크관리사 2급</summary>
 
+![네트워크관리사 2급](network_certificate_bg.jpg)
+
 - Status: Acquired  
 - Study Period: 3 months  
 
@@ -54,8 +56,5 @@ Prepared for **Jr Penetration Tester** and further Red Team training.
   and understanding how physical network connections work.  
   This experience helped me build a strong foundation and increased my interest
   in networking and cybersecurity.
-
-
-![네트워크관리사 2급](network_certificate_bg.jpg)
 
 </details>
