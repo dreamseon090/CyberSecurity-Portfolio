@@ -4,7 +4,10 @@
 <details>
 <summary>🔐 TryHackMe</summary>
 
-- Pre Security Learning Path (Completed – Dec 2025)
+- Pre Security Learning Path  
+  Completed: December 2025
+
+![TryHackMe Pre Security](my%201st%20cert.png)
 
 </details>
 
