@@ -16,6 +16,6 @@
 
 - 네트워크관리사 2급
 
-![네트워크관리사 2급] (network_certificate_bg.jpg)
+![네트워크관리사 2급](network_certificate_bg.jpg)
 
 </details>
