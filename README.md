@@ -8,6 +8,8 @@
 <details>
 <summary>📘 Pre Security Learning Path</summary>
 
+![TryHackMe Pre Security](my%201st%20cert.png)
+
 ## 🧠 Overview
 Completed the TryHackMe *Pre Security Learning Path* to build a strong foundation
 in cyber security through hands-on labs.
@@ -28,8 +30,6 @@ in cyber security through hands-on labs.
 
 ## 🎯 Outcome
 Prepared for **Jr Penetration Tester** and further Red Team training.
-
-![TryHackMe Pre Security](my%201st%20cert.png)
 
 </details>
 
