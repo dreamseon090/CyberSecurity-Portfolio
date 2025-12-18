@@ -1,40 +1,73 @@
-# CyberSecurity-Portfolio
+# 🛡️ CyberSecurity Portfolio
 
-## Certifications
+Entry-level cybersecurity learner documenting certifications and hands-on learning paths.
+
+---
+
+## 🎓 Certifications
 
 <details>
-<summary>🏅 국가기술자격</summary>
+<summary><strong>🏅 국가기술자격</strong></summary>
+
+<br>
 
 <details>
-<summary>📘 네트워크관리사 2급</summary>
+<summary><strong>📘 네트워크관리사 2급</strong></summary>
+
+<br>
 
 ![네트워크관리사 2급](network_certificate_bg.jpg)
 
-- Status: Acquired  
-- Study Period: 3 months  
+**Status:** Acquired  
+**Study Period:** 3 months  
 
-- Description:  
-  This was my first formal experience studying computer and network fundamentals.  
-  I studied consistently for three months, dedicating approximately 5 hours per day.  
-  Through this process, I learned the basics of networking concepts such as IP addressing,
-  network devices, and cabling.
+### Overview
+This was my first formal experience studying computer and network fundamentals.  
+I studied consistently for three months, dedicating approximately **5 hours per day**.
 
-  One of the most memorable and interesting parts was learning how to create LAN cables
-  and understanding how physical network connections work.  
-  This experience helped me build a strong foundation and increased my interest
-  in networking and cybersecurity.
+### What I Learned
+- Basic networking concepts (IP addressing, network devices)
+- Network cabling fundamentals
+- Understanding physical network connections
+
+### Reflection
+One of the most memorable experiences was learning how to create LAN cables  
+and understanding how real-world networks are physically connected.  
+This certification helped me build a strong foundation and sparked my interest  
+in networking and cybersecurity.
 
 </details>
 </details>
 
-## learning-paths
+---
+
+## 🧪 Learning Paths
 
 <details>
-<summary>tryhackme</summary>
+<summary><strong>🔐 TryHackMe</strong></summary>
 
-Pre-security Learning Path
+<br>
 
-![tryhackme](my%201st%20cert.png)
+### 📘 Pre Security Learning Path
+
+![TryHackMe Pre Security](my%201st%20cert.png)
+
+**Platform:** TryHackMe  
+**Focus:** Cybersecurity fundamentals  
+
+- Learned basic concepts of networking, Linux, and security
+- Completed hands-on labs in a controlled environment
+- Built initial understanding of cybersecurity workflows
+
+> This learning path confirmed my interest in cybersecurity  
+> and motivated me to continue with more advanced paths.
 
 </details>
-</details>
+
+---
+
+## 🚀 Future Goals
+- Continue completing TryHackMe learning paths
+- Build hands-on security projects
+- Progress toward junior cybersecurity roles
+
