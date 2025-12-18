@@ -67,7 +67,7 @@ in networking and cybersecurity.
 ---
 
 ## 🚀 Future Goals
-- Gain a deeper understanding of network routing protocols, with a primary focus on **OSPF**
-- Strengthen hands-on networking and troubleshooting skills
-- Apply networking knowledge to cybersecurity scenarios
-- Progress toward advanced security labs and competitions
+- Build strong foundations in networking, Linux, and penetration testing
+- Progress toward the **OSCP (Offensive Security Certified Professional)** certification
+- Develop hands-on exploitation and troubleshooting skills
+- Practice real-world attack scenarios through labs and CTF-style environments
