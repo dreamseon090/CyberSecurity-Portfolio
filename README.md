@@ -1,6 +1,6 @@
 # CyberSecurity-Portfolio
 
-## 🎓 Certifications
+## Certifications
 
 <details>
 <summary>🏅 국가기술자격</summary>
@@ -24,4 +24,16 @@
   This experience helped me build a strong foundation and increased my interest
   in networking and cybersecurity.
 
+</details>
+
+## learning-paths
+
+<details>
+<summary>tryhackme</summary>
+
+Pre-security Learning Path
+
+![tryhackme](my%201st%20cert.png)
+
+</details>
 </details>
