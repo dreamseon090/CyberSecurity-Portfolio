@@ -25,6 +25,7 @@
   in networking and cybersecurity.
 
 </details>
+</details>
 
 ## learning-paths
 
