@@ -14,9 +14,6 @@
 ![TryHackMe Pre Security](my%201st%20cert.png)
 
 </details>
-
-<details>
-
 <details>
 <summary>🏅 국가기술자격</summary>
 
